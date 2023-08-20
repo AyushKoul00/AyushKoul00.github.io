@@ -29,7 +29,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/11_z7N-260rTIk1v-oEMm1YfLBPS1SSJa/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1p8sybd2U0MGkWMwmbGxF9TsZXy6SQ3L3/view?usp=sharing
 
     languages:
       title: Languages
@@ -113,6 +113,10 @@ projects:
         # link: ""
         tagline: "A dynamically-typed, interpreted language with Functions, Variables, Classes, Inheritance, etc."
 
+      - title: Competitive Programming Blog
+        # link: ""
+        tagline: "A blog containing detailed notes on competitive programming problems and concepts."
+
       - title: Machine Learning Library from scratch
         # link: "https://github.com/AyushKoul00/ML-from-scratch-in-CPP"
         tagline: "A C++ implementation of various Machine Learning Algorithms from scratch (Ex: Linear Regression, KNN, K‑Means, and Deep Learning)"
@@ -129,15 +133,15 @@ certifications:
         end: April 24, 2021
         organization: Microsoft
         credentialid: H767-5712
-        credentialurl: learn.microsoft.com/en-us/certifications/exams/az-900/
+        credentialurl: https://learn.microsoft.com/en-us/certifications/exams/az-900/
         credentialname: AZ-900
-        
+
       - name: Microsoft Azure Data Fundamentals
         # start: 2019
         end: March 30, 2021
         organization: Microsoft
         credentialid: H738-8381
-        credentialurl: learn.microsoft.com/en-us/certifications/exams/dp-900/
+        credentialurl: https://learn.microsoft.com/en-us/certifications/exams/dp-900/
         credentialname: DP-900
 
 publications:
@@ -152,11 +156,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C/C++
-        level: 70%
-
       - name: Full-Stack Web Development
         level: 65%
+      
+      - name: C/C++
+        level: 70%
 
       - name: Python
         level: 60%
@@ -164,12 +168,27 @@ skills:
       - name: Java
         level: 50%
 
-      - name: Unity
-        level: 50%
-
       - name: C#
         level: 40%
-      
+
+      - name: Javascript/Typescript
+        level: 80%
+
+      - name: Nextjs
+        level: 75%
+
+      - name: Reactjs
+        level: 75%
+
+      - name: Prisma
+        level: 55%
+
+      - name: MongoDB
+        level: 55%
+
+      - name: Unity
+        level: 50%
+        
       - name: Git
         level: 70%
 
